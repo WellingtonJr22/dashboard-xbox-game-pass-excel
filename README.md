@@ -1,6 +1,6 @@
 # 🎮 Dashboard Xbox Game Pass | Excel Interativo
 
-![Prévia do Dashboard Xbox Game Pass](assets/dashboard-preview.png)
+![Prévia do Dashboard Xbox Game Pass](dashboard-preview.png)
 
 > **Projeto de análise de dados e Business Intelligence** desenvolvido no Microsoft Excel a partir de uma base didática de assinaturas de 2024. O objetivo é transformar dados de assinaturas em indicadores visuais, acessíveis e fáceis de explorar.
 
@@ -10,15 +10,6 @@ Este dashboard apresenta o desempenho de **295 registros de assinaturas** relaci
 
 Além dos cálculos e gráficos, o projeto utiliza uma identidade visual inspirada no universo gamer, com imagens incorporadas ao próprio arquivo Excel.
 
-## 🖼️ Visual do projeto
-
-### Painel principal
-
-![Visão geral do dashboard](assets/dashboard-preview.png)
-
-### Seção gamer
-
-![Seção ilustrativa do dashboard](assets/gaming-section.png)
 
 ## 📊 Indicadores e visualizações
 
